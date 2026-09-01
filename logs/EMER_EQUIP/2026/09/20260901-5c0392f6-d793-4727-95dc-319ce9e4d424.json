@@ -1,0 +1,368 @@
+{
+  "cartId": "EMER_EQUIP",
+  "cartName": "รถ Emergency - อุปกรณ์",
+  "mode": "checklist",
+  "timestamp": "2026-08-31T17:00:00.000Z",
+  "shift": "ดึก",
+  "checker": "เอี่ยมศิริ ฮดโสดา",
+  "overallStatus": "ไม่ครบ",
+  "items": [
+    {
+      "id": "laryngoscope",
+      "name": "Laryngoscope",
+      "requiredQty": 2,
+      "foundQty": 2,
+      "shortage": false
+    },
+    {
+      "id": "blade_curve_1",
+      "name": "Blade โค้ง No. 1",
+      "requiredQty": 2,
+      "foundQty": 2,
+      "shortage": false
+    },
+    {
+      "id": "blade_curve_2",
+      "name": "Blade โค้ง No. 2",
+      "requiredQty": 2,
+      "foundQty": 2,
+      "shortage": false
+    },
+    {
+      "id": "blade_curve_3",
+      "name": "Blade โค้ง No. 3",
+      "requiredQty": 2,
+      "foundQty": 2,
+      "shortage": false
+    },
+    {
+      "id": "blade_curve_4",
+      "name": "Blade โค้ง No. 4",
+      "requiredQty": 3,
+      "foundQty": 3,
+      "shortage": false
+    },
+    {
+      "id": "blade_straight_0",
+      "name": "Blade ตรง No. 0",
+      "requiredQty": 2,
+      "foundQty": 2,
+      "shortage": false
+    },
+    {
+      "id": "blade_straight_00",
+      "name": "Blade ตรง No. 00",
+      "requiredQty": 1,
+      "foundQty": 1,
+      "shortage": false
+    },
+    {
+      "id": "blade_straight_1",
+      "name": "Blade ตรง No. 1",
+      "requiredQty": 2,
+      "foundQty": 2,
+      "shortage": false
+    },
+    {
+      "id": "ett_3",
+      "name": "ETT tube No. 3",
+      "requiredQty": 2,
+      "foundQty": 0,
+      "shortage": true
+    },
+    {
+      "id": "ett_35",
+      "name": "ETT tube No. 3.5",
+      "requiredQty": 2,
+      "foundQty": 0,
+      "shortage": true
+    },
+    {
+      "id": "ett_4",
+      "name": "ETT tube No. 4",
+      "requiredQty": 2,
+      "foundQty": 2,
+      "shortage": false
+    },
+    {
+      "id": "ett_45",
+      "name": "ETT tube No. 4.5",
+      "requiredQty": 2,
+      "foundQty": 0,
+      "shortage": true
+    },
+    {
+      "id": "ett_5",
+      "name": "ETT tube No. 5",
+      "requiredQty": 2,
+      "foundQty": 2,
+      "shortage": false
+    },
+    {
+      "id": "ett_55",
+      "name": "ETT tube No. 5.5",
+      "requiredQty": 2,
+      "foundQty": 1,
+      "shortage": true
+    },
+    {
+      "id": "ett_6",
+      "name": "ETT tube No. 6",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "ett_65",
+      "name": "ETT tube No. 6.5",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "ett_7",
+      "name": "ETT tube No. 7",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "ett_75",
+      "name": "ETT tube No. 7.5",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "ett_8",
+      "name": "ETT tube No. 8",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "flashlight",
+      "name": "ไฟฉาย",
+      "requiredQty": 1,
+      "foundQty": 1,
+      "shortage": false
+    },
+    {
+      "id": "tongue_depressor",
+      "name": "ไม้กดลิ้น",
+      "requiredQty": 6,
+      "foundQty": 3,
+      "shortage": true
+    },
+    {
+      "id": "knee_jerk",
+      "name": "Knee jerk (ค้อนเคาะเข่า)",
+      "requiredQty": 3,
+      "foundQty": 3,
+      "shortage": false
+    },
+    {
+      "id": "battery_small",
+      "name": "ถ่านไฟฉาย เล็ก",
+      "requiredQty": 4,
+      "foundQty": 4,
+      "shortage": false
+    },
+    {
+      "id": "battery_medium",
+      "name": "ถ่านไฟฉาย กลาง",
+      "requiredQty": 4,
+      "foundQty": 4,
+      "shortage": false
+    },
+    {
+      "id": "battery_large",
+      "name": "ถ่านไฟฉาย ใหญ่",
+      "requiredQty": 4,
+      "foundQty": 4,
+      "shortage": false
+    },
+    {
+      "id": "battery_dtx",
+      "name": "ถ่านเครื่องเจาะ DTX",
+      "requiredQty": 1,
+      "foundQty": 0,
+      "shortage": true
+    },
+    {
+      "id": "ky_jelly",
+      "name": "KY-Jelly",
+      "requiredQty": 1,
+      "foundQty": 1,
+      "shortage": false
+    },
+    {
+      "id": "syringe_1",
+      "name": "Syringe 1 cc",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "syringe_3",
+      "name": "Syringe 3 cc",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "syringe_5",
+      "name": "Syringe 5 cc",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "syringe_10",
+      "name": "Syringe 10 cc",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "syringe_20",
+      "name": "Syringe 20 cc",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "syringe_50",
+      "name": "Syringe 50 cc",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "guidewire_child",
+      "name": "Guidewire เด็ก",
+      "requiredQty": 1,
+      "foundQty": 0,
+      "shortage": true
+    },
+    {
+      "id": "guidewire_adult",
+      "name": "Guidewire ผู้ใหญ่",
+      "requiredQty": 9,
+      "foundQty": 5,
+      "shortage": true
+    },
+    {
+      "id": "airway_child",
+      "name": "Airway เด็ก",
+      "requiredQty": 3,
+      "foundQty": 1,
+      "shortage": true
+    },
+    {
+      "id": "airway_adult",
+      "name": "Airway ผู้ใหญ่",
+      "requiredQty": 10,
+      "foundQty": 4,
+      "shortage": true
+    },
+    {
+      "id": "portex_6",
+      "name": "Portex tube No. 6",
+      "requiredQty": 1,
+      "foundQty": 1,
+      "shortage": false
+    },
+    {
+      "id": "portex_65",
+      "name": "Portex tube No. 6.5",
+      "requiredQty": 1,
+      "foundQty": 1,
+      "shortage": false
+    },
+    {
+      "id": "portex_7",
+      "name": "Portex tube No. 7",
+      "requiredQty": 1,
+      "foundQty": 1,
+      "shortage": false
+    },
+    {
+      "id": "portex_75",
+      "name": "Portex tube No. 7.5",
+      "requiredQty": 1,
+      "foundQty": 1,
+      "shortage": false
+    },
+    {
+      "id": "portex_8",
+      "name": "Portex tube No. 8",
+      "requiredQty": 1,
+      "foundQty": 1,
+      "shortage": false
+    },
+    {
+      "id": "silver_7",
+      "name": "Silver tube No. 7",
+      "requiredQty": 1,
+      "foundQty": 1,
+      "shortage": false
+    },
+    {
+      "id": "silver_8",
+      "name": "Silver tube No. 8",
+      "requiredQty": 1,
+      "foundQty": 1,
+      "shortage": false
+    },
+    {
+      "id": "silver_9",
+      "name": "Silver tube No. 9",
+      "requiredQty": 1,
+      "foundQty": 1,
+      "shortage": false
+    },
+    {
+      "id": "ambu_small_child",
+      "name": "Ambu เด็กเล็ก",
+      "requiredQty": 1,
+      "foundQty": 1,
+      "shortage": false
+    },
+    {
+      "id": "ambu_big_child",
+      "name": "Ambu เด็กโต",
+      "requiredQty": 1,
+      "foundQty": 0,
+      "shortage": true
+    },
+    {
+      "id": "ambu_adult",
+      "name": "Ambu ผู้ใหญ่",
+      "requiredQty": 1,
+      "foundQty": 1,
+      "shortage": false
+    },
+    {
+      "id": "mask_3",
+      "name": "Mask No. 3",
+      "requiredQty": 1,
+      "foundQty": 1,
+      "shortage": false
+    },
+    {
+      "id": "mask_4",
+      "name": "Mask No. 4",
+      "requiredQty": 1,
+      "foundQty": 1,
+      "shortage": false
+    },
+    {
+      "id": "mask_5",
+      "name": "Mask No. 5",
+      "requiredQty": 1,
+      "foundQty": 1,
+      "shortage": false
+    }
+  ]
+}
