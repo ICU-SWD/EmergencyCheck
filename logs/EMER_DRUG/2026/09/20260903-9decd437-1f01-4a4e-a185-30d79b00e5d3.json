@@ -1,0 +1,179 @@
+{
+  "cartId": "EMER_DRUG",
+  "cartName": "รถ Emergency - ยา",
+  "mode": "checklist",
+  "timestamp": "2026-09-02T17:00:00.000Z",
+  "shift": "ดึก",
+  "checker": "ปฏิยุทธ์ อุปพงษ์",
+  "overallStatus": "ไม่ครบ",
+  "items": [
+    {
+      "id": "adenosine",
+      "name": "Adenosine 6mg/2ml Inj.",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "adrenaline",
+      "name": "Adrenaline 1mg/ml Inj.",
+      "requiredQty": 20,
+      "foundQty": 20,
+      "shortage": false
+    },
+    {
+      "id": "amiodarone",
+      "name": "Amiodarone 150mg/3ml Inj.",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "digoxin",
+      "name": "Digoxin 0.5mg/ml Inj.",
+      "requiredQty": 2,
+      "foundQty": 2,
+      "shortage": false
+    },
+    {
+      "id": "dobutamine",
+      "name": "Dobutamine inj. USP 50mg/ml",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "dopamine",
+      "name": "Dopamine HCL 250mg/10ml",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "lidocaine",
+      "name": "Lidocaine 2% W/O Adrenaline",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "mgso4_10",
+      "name": "10%MgSO4 inj 10ml",
+      "requiredQty": 4,
+      "foundQty": 4,
+      "shortage": false
+    },
+    {
+      "id": "mgso4_50",
+      "name": "50%MgSO4 inj 2ml",
+      "requiredQty": 20,
+      "foundQty": 20,
+      "shortage": false
+    },
+    {
+      "id": "nitroglycerin",
+      "name": "Nitroglycerin 5mg/ml inj.",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "norepinephrine",
+      "name": "Norepinephrine 4mg/4ml inj.",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "tranexamic",
+      "name": "Transmine 250mg/10ml",
+      "requiredQty": 4,
+      "foundQty": 4,
+      "shortage": false
+    },
+    {
+      "id": "atropine",
+      "name": "Atropine 0.6mg/ml Inj.",
+      "requiredQty": 2,
+      "foundQty": 2,
+      "shortage": false
+    },
+    {
+      "id": "calcium_gluconate",
+      "name": "Calcium gluconate 100mg/ml",
+      "requiredQty": 3,
+      "foundQty": 3,
+      "shortage": false
+    },
+    {
+      "id": "dexamethasone",
+      "name": "Dexamethasone 4mg/ml inj.",
+      "requiredQty": 2,
+      "foundQty": 2,
+      "shortage": false
+    },
+    {
+      "id": "diazepam",
+      "name": "Diazepam 10mg/ml Inj.",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "naloxone",
+      "name": "Naloxone HCL 400mcg/ml",
+      "requiredQty": 3,
+      "foundQty": 3,
+      "shortage": false
+    },
+    {
+      "id": "nicardipine",
+      "name": "Nicardipine 2mg/2ml Inj.",
+      "requiredQty": 10,
+      "foundQty": 10,
+      "shortage": false
+    },
+    {
+      "id": "phenytoin",
+      "name": "Phenytoin sodium 250mg/5ml",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "salbutamol",
+      "name": "Salbutamol sol NB",
+      "requiredQty": 1,
+      "foundQty": 1,
+      "shortage": false
+    },
+    {
+      "id": "beradual",
+      "name": "Beradual sol NB",
+      "requiredQty": 2,
+      "foundQty": 2,
+      "shortage": false
+    },
+    {
+      "id": "beradual_forte",
+      "name": "Beradual Forte NB",
+      "requiredQty": 10,
+      "foundQty": 10,
+      "shortage": false
+    },
+    {
+      "id": "glucose_50",
+      "name": "50%Glucose 50ml inj.",
+      "requiredQty": 5,
+      "foundQty": 3,
+      "shortage": true
+    },
+    {
+      "id": "sodium_bicarbonate",
+      "name": "Sodium Bicarbonate 3.75g/50ml",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    }
+  ]
+}
