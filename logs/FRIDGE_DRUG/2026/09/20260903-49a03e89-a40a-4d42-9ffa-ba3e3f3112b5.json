@@ -1,0 +1,74 @@
+{
+  "cartId": "FRIDGE_DRUG",
+  "cartName": "ตู้เย็นยา",
+  "mode": "log",
+  "timestamp": "2026-09-02T17:00:00.000Z",
+  "shift": "บ่าย",
+  "checker": "ปิยะธิดา ขันชารี",
+  "overallStatus": "บันทึกแล้ว",
+  "items": [
+    {
+      "id": "adrenaline_fridge",
+      "name": "Adrenaline 1 mg/ml",
+      "requiredQty": 0,
+      "foundQty": 20,
+      "shortage": false
+    },
+    {
+      "id": "vaseline_gauze",
+      "name": "Vaseline gauze",
+      "requiredQty": 0,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "hc",
+      "name": "H/C",
+      "requiredQty": 0,
+      "foundQty": 16,
+      "shortage": false
+    },
+    {
+      "id": "stool_cs",
+      "name": "Stool C/S",
+      "requiredQty": 0,
+      "foundQty": 20,
+      "shortage": false
+    },
+    {
+      "id": "media_cs",
+      "name": "Media C/S",
+      "requiredQty": 0,
+      "foundQty": 20,
+      "shortage": false
+    },
+    {
+      "id": "remaining_abg",
+      "name": "Remaining ABG",
+      "requiredQty": 0,
+      "foundQty": 60,
+      "shortage": false
+    },
+    {
+      "id": "heparin",
+      "name": "Heparin sodium 5,000 IU/mL",
+      "requiredQty": 0,
+      "foundQty": 2,
+      "shortage": false
+    },
+    {
+      "id": "xylocaine_adrenaline",
+      "name": "Xylocain(Lidocain) 2% with Adrenaline",
+      "requiredQty": 0,
+      "foundQty": 1,
+      "shortage": false
+    },
+    {
+      "id": "cartridge_abg",
+      "name": "Cartridge ABG (กล่อง)",
+      "requiredQty": 0,
+      "foundQty": 4,
+      "shortage": false
+    }
+  ]
+}
