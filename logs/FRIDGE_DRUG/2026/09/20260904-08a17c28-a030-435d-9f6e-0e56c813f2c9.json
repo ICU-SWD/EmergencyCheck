@@ -1,0 +1,53 @@
+{
+  "cartId": "FRIDGE_DRUG",
+  "cartName": "ตู้เย็นยา",
+  "mode": "log",
+  "timestamp": "2026-09-03T17:00:00.000Z",
+  "shift": "เช้า",
+  "checker": "เอี่ยมศิริ ฮดโสดา",
+  "overallStatus": "บันทึกแล้ว",
+  "items": [
+    {
+      "id": "adrenaline_fridge",
+      "name": "Adrenaline 1 mg/ml",
+      "requiredQty": 10,
+      "foundQty": 10,
+      "shortage": false
+    },
+    {
+      "id": "vaseline_gauze",
+      "name": "Vaseline gauze",
+      "requiredQty": 5,
+      "foundQty": 5,
+      "shortage": false
+    },
+    {
+      "id": "remaining_abg",
+      "name": "Remaining ABG",
+      "requiredQty": 0,
+      "foundQty": 1,
+      "shortage": false
+    },
+    {
+      "id": "heparin",
+      "name": "Heparin sodium 5,000 IU/mL",
+      "requiredQty": 0,
+      "foundQty": 2,
+      "shortage": false
+    },
+    {
+      "id": "xylocaine_adrenaline",
+      "name": "Xylocain(Lidocain) 2% with Adrenaline",
+      "requiredQty": 0,
+      "foundQty": 2,
+      "shortage": false
+    },
+    {
+      "id": "cartridge_abg",
+      "name": "Cartridge ABG (กล่อง)",
+      "requiredQty": 0,
+      "foundQty": 4,
+      "shortage": false
+    }
+  ]
+}
